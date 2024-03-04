@@ -5,3 +5,4 @@ const func = async () => {
   console.log(response) // 打印 'pong'
 }
 func()
+console.log(window.myAPI)
